@@ -4,7 +4,6 @@ This class must contain at least one abstract method, which is marked by the key
 The Abstract classes are typically used to define a base class in the class hierarchy.
 
 
-
 // C# program to illustrate the
 // concept of abstract class
 using System;
